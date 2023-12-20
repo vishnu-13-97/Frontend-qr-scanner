@@ -1,0 +1,41 @@
+body{background-color:  hsl(212, 45%, 89%);
+color: black;
+display: flex;
+justify-content: center;
+
+}
+
+.Card {
+    background-color:  hsl(0, 0%, 100%);
+    border: 1px solid black;
+    max-width: 290px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    border: none;
+}
+
+img{
+    width: 240px;
+    padding: 25px;
+    border-radius: 35px;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    margin-top: -10px;
+}
+p{
+    color: rgb(105, 104, 104);
+    text-align: center;
+    width: 250px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    font-size: 15px;
+}
+footer{
+    position: fixed;
+    bottom: 10px;
+}
+
